@@ -1,0 +1,126 @@
+{
+  "Ducklbrd": [
+    {
+      "head": [
+        {
+          "list_total_count": 379
+        },
+        {
+          "RESULT": {
+            "CODE": "INFO-000",
+            "MESSAGE": "정상 처리되었습니다."
+          }
+        }
+      ]
+    },
+    {
+      "row": [
+        {
+          "BIZPLC_NM": "베스트 당구장",
+          "REFINE_WGS84_LOGT": 126.8819581,
+          "REFINE_ZIP_CD": "423826",
+          "REFINE_ROADNM_ADDR": "경기도 광명시 기아로 22 (소하동,3층)",
+          "REFINE_LOTNO_ADDR": "경기도 광명시 소하동 1240-2번지 3층",
+          "MBER_RECRUT_TOT_PSNNUM_CNT": null,
+          "LEADER_CNT": null,
+          "DETAIL_INDUTYPE_NM": null,
+          "PLOT_AR": null,
+          "COPRTN_NM": null,
+          "CULTUR_PHSTRN_INDUTYPE_NM": "당구장업",
+          "PLVTINST_DIV_NM": "사립",
+          "BULDNG_TOT_AR": null,
+          "BULDNG_BUILDG_CNT": null,
+          "LOCPLC_AR": null,
+          "CLSBIZ_DE": "20030618",
+          "BSN_STATE_NM": "폐업",
+          "LICENSG_DE": "20030827",
+          "REFINE_WGS84_LAT": 37.436131
+        },
+        {
+          "BIZPLC_NM": "정 당구장",
+          "REFINE_WGS84_LOGT": 126.867626,
+          "REFINE_ZIP_CD": "423836",
+          "REFINE_ROADNM_ADDR": "경기도 광명시 철산로 15 (철산동,웅진빌딩 지하1층)",
+          "REFINE_LOTNO_ADDR": "경기도 광명시 철산동 245-9번지 웅진빌딩 지하1층",
+          "MBER_RECRUT_TOT_PSNNUM_CNT": null,
+          "LEADER_CNT": null,
+          "DETAIL_INDUTYPE_NM": null,
+          "PLOT_AR": null,
+          "COPRTN_NM": null,
+          "CULTUR_PHSTRN_INDUTYPE_NM": "당구장업",
+          "PLVTINST_DIV_NM": "사립",
+          "BULDNG_TOT_AR": null,
+          "BULDNG_BUILDG_CNT": null,
+          "LOCPLC_AR": null,
+          "CLSBIZ_DE": "20000524",
+          "BSN_STATE_NM": "폐업",
+          "LICENSG_DE": "20030828",
+          "REFINE_WGS84_LAT": 37.4763721
+        },
+        {
+          "BIZPLC_NM": "볼타운 당구장",
+          "REFINE_WGS84_LOGT": 126.8632852,
+          "REFINE_ZIP_CD": "423840",
+          "REFINE_ROADNM_ADDR": "경기도 광명시 도덕공원로 87 (철산동)",
+          "REFINE_LOTNO_ADDR": "경기도 광명시 철산동 466-2번지",
+          "MBER_RECRUT_TOT_PSNNUM_CNT": null,
+          "LEADER_CNT": null,
+          "DETAIL_INDUTYPE_NM": null,
+          "PLOT_AR": null,
+          "COPRTN_NM": null,
+          "CULTUR_PHSTRN_INDUTYPE_NM": "당구장업",
+          "PLVTINST_DIV_NM": "사립",
+          "BULDNG_TOT_AR": null,
+          "BULDNG_BUILDG_CNT": null,
+          "LOCPLC_AR": null,
+          "CLSBIZ_DE": "19960831",
+          "BSN_STATE_NM": "폐업",
+          "LICENSG_DE": "20030827",
+          "REFINE_WGS84_LAT": 37.4761779
+        },
+        {
+          "BIZPLC_NM": "퍼펙",
+          "REFINE_WGS84_LOGT": 126.8676741,
+          "REFINE_ZIP_CD": "423837",
+          "REFINE_ROADNM_ADDR": "경기도 광명시 오리로856번길 8 (철산동)",
+          "REFINE_LOTNO_ADDR": "경기도 광명시 철산동 411번지 금봉빌딩 501호",
+          "MBER_RECRUT_TOT_PSNNUM_CNT": null,
+          "LEADER_CNT": null,
+          "DETAIL_INDUTYPE_NM": null,
+          "PLOT_AR": null,
+          "COPRTN_NM": null,
+          "CULTUR_PHSTRN_INDUTYPE_NM": "당구장업",
+          "PLVTINST_DIV_NM": "사립",
+          "BULDNG_TOT_AR": 2130.42,
+          "BULDNG_BUILDG_CNT": 1,
+          "LOCPLC_AR": null,
+          "CLSBIZ_DE": "20180731",
+          "BSN_STATE_NM": "폐업",
+          "LICENSG_DE": "20080714",
+          "REFINE_WGS84_LAT": 37.4747954
+        },
+        {
+          "BIZPLC_NM": "C.T 당구장",
+          "REFINE_WGS84_LOGT": 126.8590184,
+          "REFINE_ZIP_CD": "423803",
+          "REFINE_ROADNM_ADDR": "경기도 광명시 광일로 21 (광명동,3층)",
+          "REFINE_LOTNO_ADDR": "경기도 광명시 광명동 40-8번지 3층",
+          "MBER_RECRUT_TOT_PSNNUM_CNT": null,
+          "LEADER_CNT": null,
+          "DETAIL_INDUTYPE_NM": null,
+          "PLOT_AR": null,
+          "COPRTN_NM": null,
+          "CULTUR_PHSTRN_INDUTYPE_NM": "당구장업",
+          "PLVTINST_DIV_NM": "사립",
+          "BULDNG_TOT_AR": null,
+          "BULDNG_BUILDG_CNT": null,
+          "LOCPLC_AR": null,
+          "CLSBIZ_DE": "19991115",
+          "BSN_STATE_NM": "폐업",
+          "LICENSG_DE": "20030828",
+          "REFINE_WGS84_LAT": 37.48457
+        }
+      ]
+    }
+  ]
+}
